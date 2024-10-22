@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ruta de Viatge: Itàlia</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            color: #2d5d88;
+        }
+        h2, h3 {
+            color: #5a5a5a;
+        }
+        .city-img {
+            width: 100%;
+            height: auto;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+        th, td {
+            padding: 10px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Ruta de Viatge: 7 dies a Itàlia</h1>
+    <h2>Dia 1: Arribada a Roma</h2>
+    <p>Sortida des de Barcelona i arribada a Roma. Trasllat a l'hotel i temps lliure per descansar o explorar els voltants.</p>
+    <img src="roma.jpg" alt="Roma" class="city-img">
+    
+    <h2>Dia 2: Visita a Roma</h2>
+    <p>Explorarem el Coliseu, el Vaticà, la Fontana di Trevi i altres monuments històrics de Roma.</p>
+    <img src="coliseu.jpg" alt="Coliseu" class="city-img">
+
+    <h2>Dia 3: Sortida cap a Florència</h2>
+    <p>Viatge en tren d'alta velocitat cap a Florència. Trasllat a l'hotel i temps per explorar la ciutat.</p>
+    <img src="florencia.jpg" alt="Florència" class="city-img">
+
+    <h2>Dia 4: Visita a Florència</h2>
+    <p>Visitarem la Galleria degli Uffizi, el Ponte Vecchio i altres punts d'interès artístic i cultural.</p>
+    <img src="pontevecchio.jpg" alt="Ponte Vecchio" class="city-img">
+
+    <h2>Dia 5: Sortida cap a Venècia</h2>
+    <p>Viatge en tren cap a Venècia. Arribada i temps per gaudir de la ciutat dels canals.</p>
+    <img src="venecia.jpg" alt="Venècia" class="city-img">
+
+    <h2>Dia 6: Visita a Venècia</h2>
+    <p>Explorarem la plaça de Sant Marc, el Palau Ducal i farem un passeig en góndola pels canals de Venècia.</p>
+    <img src="sanmarc.jpg" alt="Plaça de Sant Marc" class="city-img">
+
+    <h2>Dia 7: Tornada a Barcelona</h2>
+    <p>Viatge de tornada en avió des de Venècia a Barcelona.</p>
+    <img src="barcelona.jpg" alt="Barcelona" class="city-img">
+
+    <h2>Enllaç al Google Maps de la Ruta</h2>
+    <p><a href="https://www.google.com/maps/dir/Barcelona,+Espanya/Roma,+Itàlia/Florència,+Itàlia/Venècia,+Itàlia/Barcelona,+Espanya/">Veure la ruta a Google Maps</a></p>
+    
+    <h2>Pressupost Desglossat</h2>
+    <table>
+        <tr>
+            <th>Concepte</th>
+            <th>Cost</th>
+        </tr>
+        <tr>
+            <td>Vols Barcelona - Roma i Venècia - Barcelona</td>
+            <td>150 €</td>
+        </tr>
+        <tr>
+            <td>Allotjament (Hotels per 6 nits)</td>
+            <td>600 €</td>
+        </tr>
+        <tr>
+            <td>Transport intern (Trens Roma-Florència-Venècia)</td>
+            <td>100 €</td>
+        </tr>
+        <tr>
+            <td>Menjar (aproximadament 30 € al dia)</td>
+            <td>210 €</td>
+        </tr>
+        <tr>
+            <td>Entrades i activitats turístiques</td>
+            <td>150 €</td>
+        </tr>
+        <tr>
+            <td>Altres despeses</td>
+            <td>90 €</td>
+        </tr>
+        <tr>
+            <th>Total</th>
+            <th>1.300 €</th>
+        </tr>
+    </table>
+
+    <h2>Transport</h2>
+    <p>El viatge inclou vols internacionals amb sortida des de Barcelona fins a Roma i tornada des de Venècia. Els desplaçaments entre ciutats es realitzen en tren d'alta velocitat.</p>
+
+    <h2>Allotjament</h2>
+    <p>L'allotjament es realitza en hotels de 3-4 estrelles a prop del centre de les ciutats visitades: Roma, Florència i Venècia.</p>
+
+</body>
+</html>
